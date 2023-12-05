@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Recharge Service</string>
+    <string name="accessibility_service_description">Service for auto task</string>
+    <string name="accessibility_service_name">Task service</string>
 </resources>
